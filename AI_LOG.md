@@ -7,7 +7,7 @@
 - GitHub username: 123zgj123
 - Fork repository URL: https://github.com/123zgj123/wireless-final-project-template
 - Branch: main
-- PR number: 创建后由 GitHub 自动分配
+- PR number: 22
 
 ## 2. AI 使用说明
 
